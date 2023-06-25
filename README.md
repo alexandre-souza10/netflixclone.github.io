@@ -15,7 +15,9 @@ Gift ou Video:
 ## Liguagens e ferramentas utilizadas:
 - HTML
 - CSS
+- Java Script
 - JQuery. js
+- Slick.min.js
 - Visual Studio Code
 
 <br></br>
