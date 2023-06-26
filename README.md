@@ -8,8 +8,11 @@
 <br></br>
 ## Descrição do projeto:
 Aqui ficara a descrição do meu projeto.
+<br></br>
 
-Gift ou Video:
+Video:
+
+https://github.com/alexandre-souza10/netflixclone.github.io/assets/74196527/90cdd419-00fa-48a5-802d-2f03dca8fd73
 
 <br></br>
 ## Liguagens e ferramentas utilizadas:
