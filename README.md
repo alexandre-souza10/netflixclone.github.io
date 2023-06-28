@@ -26,13 +26,14 @@ https://github.com/alexandre-souza10/netflixclone.github.io/assets/74196527/90cd
 
 <br></br>
 
-## Languages ​​and tools used:
+## Languages ​​and Tools used:
 - HTML
 - CSS
 - Java Script
 - JQuery. js
 - Slick.min.js
 - Visual Studio Code
+
 <br></br>
 
 #### Author: 
