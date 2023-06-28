@@ -7,7 +7,15 @@
 
 <br></br>
 ## Descrição do projeto:
-Aqui ficara a descrição do meu projeto.
+- Nesse Projeto foi desenvolvido uma pagina Clone da Netflix, um projeto Front-End, utlizando HTML, CSS, Java Script e Jquery. Na pagina 
+encontramos um design mais avançado , bem objetivo, e muito funcional para o seu proposito , contendo um catalogo de filmes e series estaticos ,
+e um video de introdução, tornando a pagina dinamica nessa etapa.
+
+- O projeto tem a funcionalidade de ter um catalogo de filmes e series estaticos , tendo um video de introdução mostrando uma serie , o seu nome ,
+e uma breve descrição dinamica, com um design muito proximo da propria netflix , com uma tela bem funcional e interativa, mesmo sendo a maior parte estatica, por
+ser um projeto apenas Front-End , mas tendo sua dinamica no video de introdução da pagina.
+
+- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina Clone da Netflix.
 <br></br>
 
 Video:
