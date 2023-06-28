@@ -1,9 +1,9 @@
 <h1 align="center"> Clone Netflix - Front-End</h1>
 
-#### Pagina Inicial do Projeto:
+### Project Home Page:
 ![Screenshot_1](https://github.com/alexandre-souza10/netflixclone.github.io/assets/74196527/6028fd68-aebc-41e8-b54f-6eb0b1557503)
 
-### Link de acesso ao Projeto: https://alexandre-souza10.github.io/netflixclone.github.io/
+### : https://alexandre-souza10.github.io/netflixclone.github.io/
 
 <br></br>
 ## Descrição do projeto:
