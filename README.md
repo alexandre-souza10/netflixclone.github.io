@@ -3,7 +3,7 @@
 ### Project Home Page:
 ![Screenshot_1](https://github.com/alexandre-souza10/netflixclone.github.io/assets/74196527/6028fd68-aebc-41e8-b54f-6eb0b1557503)
 
-### Project access link : https://alexandre-souza10.github.io/netflixclone.github.io/
+### Project access link : https://alexandre-souza10.github.io/netflixclones/
 
 <br></br>
 
