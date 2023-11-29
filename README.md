@@ -30,6 +30,7 @@ https://github.com/alexandre-souza10/netflixclone.github.io/assets/74196527/90cd
 - HTML
 - CSS
 - Java Script
+- React.js
 - JQuery. js
 - Slick.min.js
 - Visual Studio Code
